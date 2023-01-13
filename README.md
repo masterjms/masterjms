@@ -53,8 +53,8 @@
 ![Minsung's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterjms)
 
 
-### 아티클
--
+### 가치관
+- 면접 때는 나를 온전히 드러내야 하고, 그렇게 드러낸 나의 모습과 회사와 조직이 맞지 않다고 생각하면 담담하게 받아들여야 한다. 맞지 않는 조직에서 일하는 것은 나에게도 조직에게도 해가될 뿐이다.
 
 ### 회고
 -
