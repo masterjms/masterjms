@@ -33,7 +33,7 @@
 	<img src="https://img.shields.io/badge/groomide%20IDE-2C2255?style=flat&logo=GroomIde&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-F8DC75?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Vue.js-009639?style=flat&logo=Vue.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
