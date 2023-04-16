@@ -53,8 +53,8 @@
 - 질문이 없게 하는 일처리, 질문을 많이 하는 습관
 - https://todomvc.com/
 
-### 회고
--
+### 목표
+- vue.js를 이용해 버튼을 누르면 명언이 랜덤하게 나오는 프로그램을 짜보자.
 
 ![Email](https://img.shields.io/badge/mstoto0319@gmail.com-yellow?logo=messenger&logoColor=fff)
 [![Blog](https://img.shields.io/badge/TIL-https://github.com/masterjms-%23333?labelColor=%23aaa)](https://github.com/masterjms/TIL)
