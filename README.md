@@ -2,92 +2,45 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MasterJms%20GitHub!&fontSize=70" />
 </div>
 
-<br>
-
-<div align="center">
-  <h3>📚 Tech Stack</h3>
-  <p>✨ Platforms & Languages ✨</p>
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>🛠 Tools</h3>
-
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=masterjms&show_icons=true&theme=default&hide_title=true" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterjms&layout=compact&theme=default" />
-</div>
-
----
-
 ### 🙋‍♂️ About Me
 
-저는 **프론트엔드 개발자**로 시작하여, 실제 서비스를 운영하면서 **DevOps**의 중요성과 매력을 체감하며 성장하고 있는 개발자입니다.  
-단순히 화면을 만드는 것을 넘어서 **지속 가능한 인프라 운영과 배포 자동화**에 집중하고 있습니다.
+현실의 문제를 찾아 정의하고, 직접 구현하는 개발자 **장민성**입니다.
+산업공학을 배경으로 수리 최적화와 서버 개발을 함께 다루며, 단말·센서부터 서버와 화면까지 한 시스템을 끝까지 만들어 왔습니다.
 
-- GitHub Actions를 활용한 **CI/CD 파이프라인 구축**
-- Docker, Nginx 기반의 **컨테이너 환경 운영**
-- AWS(S3, EC2, VPC)를 통한 **클라우드 마이그레이션 경험**
-- Sentry / Prometheus / Grafana 기반의 **에러 추적 및 모니터링 구축**
+- 발전소 설비 예지보전 디지털 트윈의 백엔드 PM, 한국중부발전 기술실증 시연
+- 마을방송·태양광 가로등 IoT 관제 플랫폼의 서버 전체 설계·구현·AWS 운영
+- 3D 소터 통합 배정·롤링 호라이즌 스케줄링 연구, 한국물류과학기술학회 2026 논문경진대회 우수상
+- 수요예측·생산계획·자재발주를 한 파이프라인으로 묶은 툴체인 운용
 
-> 저는 프론트엔드와 DevOps의 경계를 넘나들며, 전체 서비스 흐름을 이해하고 개선하는 개발자를 지향합니다.
-
----
-
-### 🔎 최근 관심사
-
-올해부터는 DevOps 업무와 **인공지능을 활용한 운영 시스템 최적화**에도 관심을 가지고 있습니다.
-
-기존의 CI/CD 파이프라인 구축과 인프라 운영 경험을 바탕으로, 시스템 데이터를 보다 지능적으로 분석하고 자동화할 수 있는 방법을 고민하고 있습니다.
-
-- 로그/메트릭 기반 예측 분석
-→ Prometheus와 Grafana로 수집한 시스템 데이터를 기반으로, 이상 징후를 사전에 감지하거나 리소스 사용량을 예측하는 모델 구축에 관심이 많습니다.
-
-- 운영 로그 기반 이벤트 분류 모델 실험
-→ 시스템 장애나 특정 이벤트 발생 시 패턴을 인공지능 모델로 학습시켜, Slack 알림 자동 분류나 대응 우선순위 지정에 활용하는 방법을 고민중입니다.
-
-- 업무 자동화 흐름에 AI 연계
-→ GitHub Actions의 워크플로우와 Python 기반의 스크립트를 연결해, 배포 전 코드 품질 분석 및 변경 로그 요약 등에 LLM(OpenAI API 등)을 활용해보는 중입니다.
-
-- 프롬프트 엔지니어링을 통한 LLM 기반 자동화 실험
-→ 운영 환경에서 LLM을 추가하여, 프롬프트 설계의 정확도와 반복성이 결과에 미치는 영향을 분석하고 개선하는데 관심이 있습니다.
-특히 로그 요약, 코드 리뷰 자동화, 사용자 질의 응답 처리 등에서 문맥 유지와 정확한 의도 전달을 위한 프롬프트 구조화를 직접 경험해보았으며,
-단순한 명령형이 아닌 Few-shot prompting과 Chain-of-thought 방식의 활용에도 관심을 두고 있습니다.
-
-이러한 경험들을 통해 단순한 운영 효율화를 넘어서, 운영 데이터를 기반으로 한 능동적인 시스템 개선이 가능하다는 것을 체감하고 있으며, 앞으로도 이 영역을 지속적으로 확장해보고자 합니다.
-최종적으로, 단순 자동화를 넘어 **AI 기반 운영 인텔리전스**를 추구하고 있습니다.
+> 문제는 늘 눈에 보이는 곳보다 센서와 서버, 서버와 화면 사이의 이음새에 있었습니다. 직접 가서 보고, 그 일을 하는 사람에게 묻는 것을 문제 파악의 첫 절차로 여깁니다.
 
 ---
 
-### 📫 Contact
+### 🔎 관심사
+
+도메인 하나에 머무르지 않습니다. 제조 공정뿐 아니라 발전, 물류, 공공, 서비스까지 **다양한 분야의 디지털 트윈과 운영 시스템**을 산업공학의 눈으로 정의하고 기술로 구현하는 일에 관심이 많습니다.
+
+- 현장 데이터를 수집부터 의사결정까지 끊기지 않게 흐르게 하는 **데이터·디바이스 플랫폼**
+- 수요예측, 예지보전, 스케줄링처럼 **데이터로 결정을 내리는 시스템**
+- 수리 최적화와 시뮬레이션을 실제 운영 문제에 붙이는 일
+- AI 도구를 팀의 작업 방식으로 넣고, 완료 조건과 검증을 사람이 설계하는 일
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=masterjms&show_icons=true&theme=default&hide_title=true" />
+</div>
+
+---
+
+### 📫 Links
+
+<div align="center">
+  <a href="https://masterjms.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-masterjms.github.io-2f5d50?style=flat-square&logo=githubpages&logoColor=white" />
+  </a>
   <a href="mailto:mstoto0319@gmail.com">
     <img src="https://img.shields.io/badge/Email-mstoto0319@gmail.com-yellow?style=flat-square&logo=gmail&logoColor=white" />
   </a>
