@@ -1,0 +1,33 @@
+name: Update language card
+
+on:
+  schedule:
+    - cron: "0 18 * * 0"   # 매주 월요일 03:00 KST
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/langs.py
+      - .github/workflows/langs.yml
+
+permissions:
+  contents: write
+
+jobs:
+  langs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate langs.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/langs.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add langs.svg
+          git diff --cached --quiet || git commit -m "chore: update langs.svg"
+          git push

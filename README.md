@@ -27,6 +27,14 @@
 
 ---
 
+### 📊 Languages
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/masterjms/masterjms/main/langs.svg" alt="Most used languages" />
+</div>
+
+---
+
 ### 📫 Links
 
 <div align="center">
