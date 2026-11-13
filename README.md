@@ -27,17 +27,12 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masterjms&show_icons=true&theme=default&hide_title=true" />
-</div>
-
----
-
 ### 📫 Links
 
 <div align="center">
+  <a href="https://app.notion.com/p/Portfolio-6ebcac6e058383dfbc0801406034322a?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white" />
+  </a>
   <a href="https://masterjms.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-masterjms.github.io-2f5d50?style=flat-square&logo=githubpages&logoColor=white" />
   </a>
